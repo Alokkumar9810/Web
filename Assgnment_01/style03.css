@@ -1,0 +1,14 @@
+.container p
+{
+    width: 1200px;
+    border: solid 2px;
+    background-color: aqua;
+
+}
+
+.container b
+{
+    width: 1200px;
+    border: dotted 2px;
+    background-color: brown;
+}

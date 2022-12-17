@@ -1,0 +1,9 @@
+p
+{
+    border: dashed 1px;
+}
+
+body :hover
+{
+   background-color: gray;
+}
